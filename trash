@@ -1,0 +1,30 @@
+
+#skill{
+    padding:15px;
+    margin: 30px;
+    color: white;
+    border-style: solid;
+    border-radius: 25%;;
+}
+#edu{
+    padding:15px;
+    margin: 30px;
+    color: white;
+    border-style: solid;
+    border-radius: 25%;;
+}
+#career{
+    padding:15px;
+    margin: 30px;
+    color: white; 
+    border-style: solid;
+    border-radius: 25%;;
+}
+
+.buttonsNav{
+    position: absolute;
+    top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    left: 1400px;
+}
